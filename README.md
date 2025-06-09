@@ -1,20 +1,20 @@
-<h1 align="center">¡Hola! Soy Anthony Alejadro  👋</h1>
+<h1 align="center">Hello! I'm Anthony Alejandro 👋</h1>
 
 <p align="center">
-  Desarrollador full stack apasionado por construir cosas con Angular, NestJS, Node.js, MongoDB, TypeScript, HTML y CSS 🚀
+  Full Stack Developer passionate about building with Angular, NestJS, Node.js, MongoDB, TypeScript, HTML, and CSS 🚀
 </p>
 
 ---
 
-### 🧠 Sobre mí
+### 🧠 About Me
 
-- 🔭 Actualmente trabajando en proyectos personales full stack
-- 🌱 Siempre aprendiendo y experimentando nuevas tecnologías
-- ⚡ Dato random: cuando no estoy codificando, probablemente esté evitando hacer la tarea... 😅
+- 🔭 Currently working on personal full stack projects
+- 🌱 Always learning and experimenting with new technologies
+- ⚡ Fun fact: When I'm not coding, I'm probably avoiding doing my tasks... 😅
 
 ---
 
-### 💻 Tecnologías que uso
+### 💻 Technologies I Use
 
 ![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
 ![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
@@ -35,15 +35,15 @@
 
 ---
 
-### 🌐 Conecta conmigo
+### 🌐 Connect with Me
 
 <p>
-  <a href="https://www.linkedin.com/in/tu-linkedin" target="_blank">
+  <a href="https://www.linkedin.com/in/your-linkedin" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <!-- Agrega más enlaces si quieres -->
+  <!-- Add more links if you want -->
 </p>
 
 ---
 
-> “Code now, task later.” – Anthony, probablemente
+> “Code now, task later.” – Anthony, probably avoiding it 😅
