@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Anthony 👋</h1>
+<h1 align="center">¡Hola! Soy Anthony Alejadro  👋</h1>
 
 <p align="center">
   Desarrollador full stack apasionado por construir cosas con Angular, NestJS, Node.js, MongoDB, TypeScript, HTML y CSS 🚀
